@@ -1,5 +1,5 @@
 {
-  "name": "povs/lister-twig-bundle",
+  "name": "cpoint-eu/lister-twig-bundle",
   "type": "symfony-bundle",
   "description": "Twig implementation for lister bundle. Provides Twig and Ajax list types for full stack web applications",
   "keywords": ["lister", "list", "twig", "ajax", "symfony", "bundle"],
@@ -14,7 +14,7 @@
   "require": {
     "php":                                "^7.1",
     "symfony/twig-bundle":                "^4.0 || ^5.0",
-    "povs/lister-bundle":                 "^1.0@dev"
+    "cpoint-eu/lister-bundle":                 "^1.0@dev"
   },
 
   "require-dev": {
